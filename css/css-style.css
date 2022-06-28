@@ -39,6 +39,7 @@ body {
   background: #000000;
   color: #ffffff;
   height: 100%;
+
 }
 
 input,
@@ -107,7 +108,7 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
   background-attachment: fixed;
-
+  
 }
 
 .wrapper {
@@ -289,6 +290,7 @@ body {
   width: 80%;
   align-items: center;
   padding-left: 21%;
+  margin-bottom: 60px;
 
 }
 
